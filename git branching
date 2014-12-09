@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words
+a branch copies the content from the main branch (master) and allows for further editing without affecting the master branch.  If the new branch is preferred, the changes can then be merged up in to the master branch.

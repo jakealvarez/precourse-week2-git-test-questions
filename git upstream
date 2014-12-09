@@ -1,1 +1,2 @@
 Explain what the "upstream" remote is usually used for, in your own words
+the upstream remote is the file that sits on the computer that points the local git directory to the repo on github (or other server).

@@ -1,1 +1,2 @@
 Explain what git clone does, in your own words
+git cloning is where an existing repo is copied. This could be copied from your own computer, another computer or github. In contrast to forks, there is no relationship between the two copied repos.
